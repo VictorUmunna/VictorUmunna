@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Umunna
 - 👀 I’m interested in Data Science and Mahine Learning and their applications in the real world
-- 🌱 I’m currently learning .Deep Laerning to add to my ML skills. 
+- 🌱 I’m currently learning Deep Laerning to add to my ML skills. 
 - 💞️ I’m looking for a data science internship. Kindly go through my github.
 - 📫 You can reach me on umunnavictor01@gmail.com
 
