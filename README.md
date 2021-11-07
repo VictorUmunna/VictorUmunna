@@ -6,6 +6,8 @@ I am taking huge steps to actualize my dream of becming and Artificial Intellige
 
 Skills: Python / Machine Learning / SQL / Tableau / Excel / HTML / CSS
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Postgresql/Postgresql.png"></code>
+
 
 - 🌱 I’m currently learning Deep Learning with Tensorflow
 - 🔭 I’m constantly improving my HTML and CSS skills
