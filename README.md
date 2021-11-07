@@ -12,7 +12,7 @@ Skills: Python / Machine Learning / SQL / Tableau / Excel / HTML / CSS
 
 [![Linkedin Badge](https://img.shields.io/badge/-VictorUmunna-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/umunna-victor-obinna/)](linkedin.com/in/umunna-victor-obinna/) [![Github Badge](https://img.shields.io/badge/-VictorUmunnna-grey?style=flat&logo=github&logoColor=white&link=https://github.com/VictorUmunna/)](https://github.com/VictorUmunna/) [![Twitter Badge](https://img.shields.io/badge/-Mazi_Obinna-00acee?style=flat&logo=twitter&logoColor=white&link=https://www.twitter.com/Mazi_Obinna/)](https://www.twitter.com/Mazi_Obinna/) 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=VictorUmunnai&show_icons=true&include_all_commits=true)](https://github.com/VictorUmunna/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=VictorUmunna&show_icons=true&include_all_commits=true)](https://github.com/VictorUmunna/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorUmunna&layout=compact)](https://github.com/VictorUmunna/github-readme-stats) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VictorUmunna) 
