@@ -2,9 +2,11 @@
 
 I am on a journey to becoming a data scientist. I love to unravel trends in data, visualize and use data to tell amazing stories! But the most satisfying part of this journey is sharing my learnings, from the challenges that I face, with the community to make the world a better place!
 
+I am taking huge steps to actualize my dream of becming and Artificial Intelligece Professional
+
 Skills: Python / Machine Learning / SQL / Tableau / Excel / HTML / CSS
 
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently learning Deep Learning with Tensorflow
 - 🔭 I’m constantly improving my HTML and CSS skills
 - 🤔 I’m looking for new job opportunities 
 - 📫 How to reach me: umunnavictor01@gmail.com
@@ -18,6 +20,7 @@ Skills: Python / Machine Learning / SQL / Tableau / Excel / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VictorUmunna) 
 
 ![Profile views](https://gpvc.arturio.dev/VictorUmunna) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <!---
 VictorUmunna/VictorUmunna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
