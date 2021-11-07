@@ -5,7 +5,7 @@ I am a Data Scientist and I am currently taking huge steps to actualize my dream
 Skills: Python / Machine Learning / SQL / Tableau / Excel / HTML / CSS
 
 - 🌱 I’m currently learning Deep Learning with Tensorflow
-- 🔭 I’m constantly improving my HTML and CSS skills
+- 🔭 I’m constantly improving my Data Science and Software Engineering skills
 - 🤔 I’m looking for new job opportunities 
 - 📫 How to reach me: umunnavictor01@gmail.com
 - ⚡ Fun fact: I play Basketball 😄 
