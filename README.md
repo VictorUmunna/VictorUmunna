@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Victor
 
-I am a Data Scientist and I am currently taking huge steps to actualize my dream of becoming an Artificial Intelligence Professional. I love deriving insights from data and visualizing them by telling amazing stories.
+I am a Data Scientist and I am currently taking huge steps to actualize my dream of becoming an Artificial Intelligence Professional. I love deriving insights from data and visualizing them and also us them to tell amazing stories.
 
 Skills: Python / Machine Learning / SQL / Tableau / Excel / HTML / CSS
 
